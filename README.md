@@ -1,8 +1,13 @@
 <div align="center">
-	<img src="https://readme-typing-svg.demolab.com?lines=Michael+A.+Kuykendall;Rustacean+%E2%80%A2+Systems+Engineer;AI+Infra+%E2%80%A2+Tooling&center=true&width=800&color=FF6E96&size=28" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?lines=Michael+A.+Kuykendall;Senior+Full+Stack+Software+Engineer;Rustacean+%E2%80%94+AI+Infra%2FTooling;20-Year+Systems+Engineer;Proud+USAF+Veteran&center=true&width=800&color=00B0FF&size=28" alt="Typing SVG" />
 	<br/>
 	<img src="https://rustacean.net/assets/rustacean-flat-happy.svg" alt="Rustacean" width="80" />
 	<div><em>Fast • Safe • Concurrent — Code with purpose, deploy with confidence</em></div>
+	<div>
+		<span style="color:#e53935;font-weight:bold;">Proud</span>
+		<span style="background:#0d1117;color:#ffffff;padding:2px 6px;border-radius:4px;margin:0 4px;">USAF</span>
+		<span style="color:#1e88e5;font-weight:bold;">Veteran</span>
+	</div>
 </div>
 
 ---
@@ -118,16 +123,6 @@
 ![Followers](https://img.shields.io/github/followers/Michael-A-Kuykendall?style=for-the-badge&color=blue&label=Followers)
 
 </div>
-
----
-
-### 🔒 Private footprint (last 12 months)
-
-- 28 private repositories owned
-- Primary languages in private work: TypeScript (9), Rust (5), Python (5), Go (4), HTML (2), PHP (1)
-- Restricted contributions counted by GitHub: 10
-
-Note: Public analytics cards may not include private repo languages or contributions unless self-hosted with a token. Summary numbers above reflect your private work without exposing code.
 
 ---
 
