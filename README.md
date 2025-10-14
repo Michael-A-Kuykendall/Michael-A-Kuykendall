@@ -15,7 +15,7 @@
 ## About Me
 
 - 🦀 Proud Rustacean building the next generation of high-performance systems
-- 🚀 Maintaining Shimmy - My flagship Python-free Rust inference server (2.4k ⭐ in 12 days!)
+- 🚀 Maintaining Shimmy - My flagship Python-free Rust inference server (3.0k ⭐ and growing!)
 - 🔧 Maintaining ContextLite - Live database optimization platform serving retail redistributors
 - 📸 Built CrabCamera v0.3.0 - Complete professional desktop camera studio for Tauri
 - 🛠️ Currently building Shimmy Console + a secret new Rust LLM toolchain
@@ -36,7 +36,7 @@
 ## 🌟 Featured Projects
 
 ### 🚀 [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/shimmy?style=social) 🔥
-> **The Privacy-First OpenAI Alternative** - 5.1MB single-binary Rust inference server. **2.4k stars in 12 days!** Complete, live, and the Ollama alternative developers actually want. FREE forever, no asterisks.
+> **The Privacy-First OpenAI Alternative** - 5.1MB single-binary Rust inference server. **3,000+ stars!** Complete, live, and the Ollama alternative developers actually want. FREE forever, no asterisks.
 > 
 > `Rust` `OpenAI Compatible` `GGUF` `Zero-Config` `5MB Binary` `FREE Forever`
 >
@@ -64,6 +64,13 @@
 > ![Status](https://img.shields.io/badge/Status-In_Development-yellow) ![Secret Project](https://img.shields.io/badge/Plus_Secret_LLM_Toolchain-🤫-purple)
 
 ---
+
+### 🦀 [RustChain Community](https://github.com/Michael-A-Kuykendall/rustchain-community) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/rustchain-community?style=social)
+> **Production-Ready AI Agent Framework** - Built in Rust, 97% faster than Python alternatives. Complete framework for building AI-powered automation workflows.
+>
+> `Rust` `AI Agents` `Production Ready` `97% Faster`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/rustchain-community) ![Status](https://img.shields.io/badge/Status-Active-blue)
 
 ### 🌿 [Botanica](https://github.com/Michael-A-Kuykendall/botanica) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/botanica?style=social)
 > Professional botanical cultivation database with AI-powered plant insights.
@@ -118,9 +125,9 @@
 ### Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-A-Kuykendall&theme=github-compact&bg_color=0d1117&hide_border=true&point=ff6e96&line=ff6e96&color=ffffff" width="100%" />
 
-![Total Commits](https://img.shields.io/badge/Total_Commits-542_this_year-blueviolet?style=for-the-badge)
-![Current Streak](https://img.shields.io/badge/Current_Streak-15_days-orange?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Michael-A-Kuykendall?style=for-the-badge&color=blue&label=Followers)
+![Stars](https://img.shields.io/badge/Total_Stars-3000+-gold?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Public_Repos-7-blue?style=for-the-badge)
 
 </div>
 
