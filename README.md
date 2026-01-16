@@ -15,9 +15,9 @@
 ## About Me
 
 - 🦀 Proud Rustacean building the next generation of high-performance systems
-- 🚀 Maintaining Shimmy - My flagship Python-free Rust inference server (3.0k ⭐ and growing!)
+- 🚀 Maintaining Shimmy - My flagship Python-free Rust inference server (3.5k ⭐ and growing!)
 - 🔧 Maintaining ContextLite - Live database optimization platform serving retail redistributors
-- 📸 Built CrabCamera v0.3.0 - Complete professional desktop camera studio for Tauri
+- 📸 Built CrabCamera v0.7.0 - Complete professional desktop camera studio for Tauri
 - 🛠️ Currently building Shimmy Console + a secret new Rust LLM toolchain
 - 💬 Ask me about Rust, Go, AI Infrastructure, Systems Architecture
 - ⚡ Fun fact: Military precision meets Rust's memory safety guarantees
@@ -47,21 +47,21 @@
 > 
 > `Rust` `Tauri` `Professional Controls` `Cross-Platform` `Production Ready` `63 Tests`
 >
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/crabcamera) ![Version](https://img.shields.io/badge/version-v0.3.0-green) ![Production Ready](https://img.shields.io/badge/Production-Ready-brightgreen)
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/crabcamera) ![Version](https://img.shields.io/badge/version-v0.7.0-green) ![Production Ready](https://img.shields.io/badge/Production-Ready-brightgreen)
 
 ### � [Muxide](https://github.com/Michael-A-Kuykendall/muxide) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/muxide?style=social)
 > **Pure Rust MP4 Muxer** - Zero deps, no FFmpeg. Feed it encoded frames, get standards-compliant MP4. H.264, H.265, AV1, AAC, Opus.
 > 
 > `Rust` `MP4` `Muxer` `Video` `Zero Dependencies` `Standards Compliant`
 >
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/muxide) ![Version](https://img.shields.io/badge/version-v0.1.0-green) ![Status](https://img.shields.io/badge/Status-Active-blue)
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/muxide) ![Version](https://img.shields.io/badge/version-v0.2.0-green) ![Status](https://img.shields.io/badge/Status-Active-blue)
 
 ### �🎵 [Auxide](https://github.com/Michael-A-Kuykendall/auxide) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide?style=social)
 > **Real-Time Audio Kernel** - v0.3.0 with 50+ DSP nodes, correct-by-construction graph execution, RT-safe processing. The foundation for next-generation audio applications.
 > 
 > `Rust` `Real-Time Audio` `DSP` `50+ Nodes` `RT-Safe` `Graph-Based`
 >
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide) ![Version](https://img.shields.io/badge/version-v0.3.0-green) ![DSP Nodes](https://img.shields.io/badge/DSP_Nodes-50+-blue)
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide) ![Version](https://img.shields.io/badge/version-v0.2.2-green) ![DSP Nodes](https://img.shields.io/badge/DSP_Nodes-50+-blue)
 
 ### 🔊 [Auxide-DSP](https://github.com/Michael-A-Kuykendall/auxide-dsp) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide-dsp?style=social)
 > **DSP Utilities Library** - High-performance DSP building blocks for Auxide, including wavetables, windows, FFT utilities, and real-time safe algorithms.
@@ -148,7 +148,23 @@
 
 ![Followers](https://img.shields.io/github/followers/Michael-A-Kuykendall?style=for-the-badge&color=blue&label=Followers)
 ![Stars](https://img.shields.io/badge/Total_Stars-3700+-gold?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Public_Repos-7-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Public_Repos-100+-blue?style=for-the-badge)
+
+</div>
+
+---
+
+## 💝 Sponsors
+
+<div align="center">
+
+**Current Sponsors:**  
+[@omarmciver](https://github.com/omarmciver) | [@alistairheath](https://github.com/alistairheath)
+
+**Past Sponsors:**  
+[@MatthiasZepper](https://github.com/MatthiasZepper)
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Michael-A-Kuykendall?style=social)](https://github.com/sponsors/Michael-A-Kuykendall)
 
 </div>
 
