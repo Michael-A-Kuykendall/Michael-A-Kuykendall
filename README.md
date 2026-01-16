@@ -15,13 +15,16 @@
 ## About Me
 
 - 🦀 Proud Rustacean building the next generation of high-performance systems
-- 🚀 Maintaining Shimmy - My flagship Python-free Rust inference server (3.5k ⭐ and growing!)
-- 🔧 Maintaining ContextLite - Live database optimization platform serving retail redistributors
-- 📸 Built CrabCamera v0.7.0 - Complete professional desktop camera studio for Tauri
-- 🛠️ Currently building Shimmy Console + a secret new Rust LLM toolchain
-- 💬 Ask me about Rust, Go, AI Infrastructure, Systems Architecture
+- 🚀 Maintaining Shimmy v1.9.0 - My flagship Python-free Rust inference server (3.5k ⭐ and growing!)
+- 🎯 Contributing to ZIO ecosystem - Active PRs in zio/zio and zio/zio-http (Scala functional programming)
+- 📸 Built CrabCamera v0.7.0 - Professional desktop camera + audio plugin for Tauri (134 ⭐)
+- 🔤 Released ShimmyTok v0.7.1 - Pure Rust tokenizer for GGUF models, llama.cpp compatible
+- 🎬 Built Muxide v0.2.0 - Pure Rust MP4 muxer, zero deps, no FFmpeg (48 ⭐)
+- 🔐 Maintaining Gatewarden - Hardened Keygen.sh license validation for Rust
+- 🛠️ Currently building Shimmy Console + a secret Rust inference library
+- 💬 Ask me about Rust, Go, Scala, AI Infrastructure, Systems Architecture
 - ⚡ Fun fact: Military precision meets Rust's memory safety guarantees
- - 🎖️ Former 9/11 era Staff Sergeant, United States Air Force — 20+ years as a software engineer; devoted husband and father
+- 🎖️ Former 9/11 era Staff Sergeant, United States Air Force — 20+ years as a software engineer; devoted husband and father
 
 ---
 
@@ -158,11 +161,11 @@
 
 <div align="center">
 
+**Corporate Backer:**  
+[![ZephyrCloudIO](https://github.com/ZephyrCloudIO.png?size=60)](https://github.com/ZephyrCloudIO) [**ZephyrCloudIO**](https://github.com/ZephyrCloudIO)
+
 **Current Sponsors:**  
 [@omarmciver](https://github.com/omarmciver) | [@alistairheath](https://github.com/alistairheath)
-
-**Past Sponsors:**  
-[@MatthiasZepper](https://github.com/MatthiasZepper)
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Michael-A-Kuykendall?style=social)](https://github.com/sponsors/Michael-A-Kuykendall)
 
