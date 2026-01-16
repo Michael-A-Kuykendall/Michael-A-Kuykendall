@@ -36,7 +36,7 @@
 ## 🌟 Featured Projects
 
 ### 🚀 [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/shimmy?style=social) 🔥
-> **The Privacy-First OpenAI Alternative** - 5.1MB single-binary Rust inference server. **3,000+ stars!** Complete, live, and the Ollama alternative developers actually want. FREE forever, no asterisks.
+> **The Privacy-First OpenAI Alternative** - 5.1MB single-binary Rust inference server. **3.5k+ stars!** Complete, live, and the Ollama alternative developers actually want. FREE forever, no asterisks.
 > 
 > `Rust` `OpenAI Compatible` `GGUF` `Zero-Config` `5MB Binary` `FREE Forever`
 >
@@ -48,6 +48,20 @@
 > `Rust` `Tauri` `Professional Controls` `Cross-Platform` `Production Ready` `63 Tests`
 >
 > ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/crabcamera) ![Version](https://img.shields.io/badge/version-v0.3.0-green) ![Production Ready](https://img.shields.io/badge/Production-Ready-brightgreen)
+
+### 🎵 [Auxide](https://github.com/Michael-A-Kuykendall/auxide) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide?style=social)
+> **Real-Time Audio Kernel** - v0.3.0 with 50+ DSP nodes, correct-by-construction graph execution, RT-safe processing. The foundation for next-generation audio applications.
+> 
+> `Rust` `Real-Time Audio` `DSP` `50+ Nodes` `RT-Safe` `Graph-Based`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide) ![Version](https://img.shields.io/badge/version-v0.3.0-green) ![DSP Nodes](https://img.shields.io/badge/DSP_Nodes-50+-blue)
+
+### 🔊 [Auxide-DSP](https://github.com/Michael-A-Kuykendall/auxide-dsp) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide-dsp?style=social)
+> **DSP Utilities Library** - High-performance DSP building blocks for Auxide, including wavetables, windows, FFT utilities, and real-time safe algorithms.
+> 
+> `Rust` `DSP Utilities` `FFT` `Wavetables` `Real-Time Safe`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide-dsp) ![Version](https://img.shields.io/badge/version-v0.2.0-green) ![Status](https://img.shields.io/badge/Status-Active-blue)
 
 ### 🔍 [ContextLite](https://github.com/Michael-A-Kuykendall/contextlite) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/contextlite?style=social)
 > **Database Freedom Platform** - Live and serving retail redistributors. 27,000x faster than vector databases with SMT-powered mathematical search optimization across any database type.
@@ -126,7 +140,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-A-Kuykendall&theme=github-compact&bg_color=0d1117&hide_border=true&point=ff6e96&line=ff6e96&color=ffffff" width="100%" />
 
 ![Followers](https://img.shields.io/github/followers/Michael-A-Kuykendall?style=for-the-badge&color=blue&label=Followers)
-![Stars](https://img.shields.io/badge/Total_Stars-3000+-gold?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Total_Stars-3500+-gold?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Public_Repos-7-blue?style=for-the-badge)
 
 </div>
@@ -140,6 +154,7 @@
 [![Website](https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://targetedwebresults.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makuykendall/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_MikeKuykendall)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/michaelakuykendall.bsky.social)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelallenkuykendall@gmail.com)
 
 </div>
