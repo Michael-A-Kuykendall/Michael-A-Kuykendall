@@ -162,7 +162,10 @@
 <div align="center">
 
 **Corporate Backer:**  
-[![ZephyrCloudIO](https://github.com/ZephyrCloudIO.png?size=60)](https://github.com/ZephyrCloudIO) [**ZephyrCloudIO**](https://github.com/ZephyrCloudIO)
+
+[![ZephyrCloudIO](https://github.com/ZephyrCloudIO.png?size=60)](https://github.com/ZephyrCloudIO)
+
+[**ZephyrCloudIO**](https://github.com/ZephyrCloudIO)
 
 **Current Sponsors:**  
 [@omarmciver](https://github.com/omarmciver) | [@alistairheath](https://github.com/alistairheath)
