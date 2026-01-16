@@ -49,7 +49,14 @@
 >
 > ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/crabcamera) ![Version](https://img.shields.io/badge/version-v0.3.0-green) ![Production Ready](https://img.shields.io/badge/Production-Ready-brightgreen)
 
-### 🎵 [Auxide](https://github.com/Michael-A-Kuykendall/auxide) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide?style=social)
+### � [Muxide](https://github.com/Michael-A-Kuykendall/muxide) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/muxide?style=social)
+> **Pure Rust MP4 Muxer** - Zero deps, no FFmpeg. Feed it encoded frames, get standards-compliant MP4. H.264, H.265, AV1, AAC, Opus.
+> 
+> `Rust` `MP4` `Muxer` `Video` `Zero Dependencies` `Standards Compliant`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/muxide) ![Version](https://img.shields.io/badge/version-v0.1.0-green) ![Status](https://img.shields.io/badge/Status-Active-blue)
+
+### �🎵 [Auxide](https://github.com/Michael-A-Kuykendall/auxide) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide?style=social)
 > **Real-Time Audio Kernel** - v0.3.0 with 50+ DSP nodes, correct-by-construction graph execution, RT-safe processing. The foundation for next-generation audio applications.
 > 
 > `Rust` `Real-Time Audio` `DSP` `50+ Nodes` `RT-Safe` `Graph-Based`
@@ -140,7 +147,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-A-Kuykendall&theme=github-compact&bg_color=0d1117&hide_border=true&point=ff6e96&line=ff6e96&color=ffffff" width="100%" />
 
 ![Followers](https://img.shields.io/github/followers/Michael-A-Kuykendall?style=for-the-badge&color=blue&label=Followers)
-![Stars](https://img.shields.io/badge/Total_Stars-3500+-gold?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Total_Stars-3700+-gold?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Public_Repos-7-blue?style=for-the-badge)
 
 </div>
