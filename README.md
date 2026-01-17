@@ -139,6 +139,24 @@
 
 <div align="center">
 
+### 🚀 2025 Output — First Year on GitHub
+
+| Metric | Count |
+|--------|-------|
+| 🔥 **Total Contributions** | **2,800+** |
+| 📝 **Commits** | **2,500+** |
+| 🔀 **Pull Requests** | **83** |
+| 📦 **Releases Shipped** | **133** |
+| 🏗️ **Repos Created** | **101** |
+| ⭐ **Stars Earned** | **3,782** |
+| 🍴 **Forks** | **294** |
+
+**Peak Day: 182 contributions** (Oct 9, 2025) — *Yeah, I don't mess around.*
+
+</div>
+
+<div align="center">
+
 ### Stats & Streak
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Michael-A-Kuykendall&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Michael-A-Kuykendall&theme=radical&hide_border=true&background=0d1117&cache_seconds=86400" width="48%" />
@@ -150,8 +168,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-A-Kuykendall&theme=github-compact&bg_color=0d1117&hide_border=true&point=ff6e96&line=ff6e96&color=ffffff" width="100%" />
 
 ![Followers](https://img.shields.io/github/followers/Michael-A-Kuykendall?style=for-the-badge&color=blue&label=Followers)
-![Stars](https://img.shields.io/badge/Total_Stars-3700+-gold?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Public_Repos-100+-blue?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Total_Stars-3782-gold?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-2566-brightgreen?style=for-the-badge)
+![Releases](https://img.shields.io/badge/Releases-133-purple?style=for-the-badge)
 
 </div>
 
