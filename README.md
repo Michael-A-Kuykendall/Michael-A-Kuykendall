@@ -46,7 +46,7 @@
 > ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/shimmy) ![Forks](https://img.shields.io/github/forks/Michael-A-Kuykendall/shimmy?style=social) ![Featured on Hacker News](https://img.shields.io/badge/Hacker_News-Front_Page-orange)
 
 ### 📸 [CrabCamera](https://github.com/Michael-A-Kuykendall/crabcamera) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/crabcamera?style=social)
-> **Professional Desktop Camera Studio** - Complete v0.3.0 Tauri plugin with MediaFoundation controls, WebRTC preview, auto-capture quality validation. The invisible infrastructure that makes camera apps just work.
+> **Professional Desktop Camera + Audio Plugin** - v0.7.0 Tauri plugin with MediaFoundation controls, synchronized A/V recording, auto-capture quality validation. 134 ⭐ and growing!
 > 
 > `Rust` `Tauri` `Professional Controls` `Cross-Platform` `Production Ready` `63 Tests`
 >
