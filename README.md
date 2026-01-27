@@ -16,7 +16,6 @@
 
 - 🦀 Proud Rustacean building the next generation of high-performance systems
 - 🚀 Maintaining Shimmy v1.9.0 - My flagship Python-free Rust inference server (3.5k ⭐ and growing!)
-- 🎯 Contributing to ZIO ecosystem - Active PRs in zio/zio and zio/zio-http (Scala functional programming)
 - 📸 Built CrabCamera v0.7.0 - Professional desktop camera + audio plugin for Tauri (134 ⭐)
 - 🔤 Released ShimmyTok v0.7.1 - Pure Rust tokenizer for GGUF models, llama.cpp compatible
 - 🎬 Built Muxide v0.2.0 - Pure Rust MP4 muxer, zero deps, no FFmpeg (48 ⭐)
