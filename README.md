@@ -15,13 +15,17 @@
 ## About Me
 
 - 🦀 Proud Rustacean building the next generation of high-performance systems
-- 🚀 Maintaining Shimmy v1.9.0 - My flagship Python-free Rust inference server (3.5k ⭐ and growing!)
-- 📸 Built CrabCamera v0.7.0 - Professional desktop camera + audio plugin for Tauri (134 ⭐)
-- 🔤 Released ShimmyTok v0.7.1 - Pure Rust tokenizer for GGUF models, llama.cpp compatible
-- 🎬 Built Muxide v0.2.0 - Pure Rust MP4 muxer, zero deps, no FFmpeg (48 ⭐)
-- 🔐 Maintaining Gatewarden - Hardened Keygen.sh license validation for Rust
-- 🛠️ Currently building Shimmy Console + a secret Rust inference library
-- 💬 Ask me about Rust, Go, Scala, AI Infrastructure, Systems Architecture
+- 🚀 Maintaining **Shimmy** — Pure-Rust WebGPU inference engine, OpenAI-API compatible, GGUF native (5.7k ⭐)
+- 📸 Built **CrabCamera** v0.7.0 - Professional desktop camera + audio plugin for Tauri (166 ⭐)
+- 🔤 Released **ShimmyTok** v0.7.1 - Pure Rust tokenizer for GGUF models, 100% llama.cpp parity
+- 🎬 Built **Muxide** v0.2.0 - Pure Rust MP4 muxer, zero deps, no FFmpeg (70 ⭐)
+- 🔐 Maintaining **Gatewarden** - Hardened Keygen.sh license validation for Rust (Ed25519, replay protection)
+- 🛠️ Released **Airframe** — Pure-Rust WebGPU inference engine for GGUF (no C++, no Python, no llama.cpp)
+- 🔧 Released **Logician** v0.2.0 — Sort-checked SMT solver driver for Rust (Z3, CVC5, Yices2)
+- 🌊 Released **FeedMe** — Memory-safe streaming ETL pipeline in Rust (PII redaction, DLQ, Prometheus)
+- 🎯 Released **Schoolmarm** — Production-grade GBNF grammar-constrained decoding for LLMs
+- ⚡ Released **Wanderlust** — Windows PATH cleanup utility that actually works
+- 💬 Ask me about Rust, Go, Scala, AI Infrastructure, Systems Architecture, SMT Solvers, WebGPU
 - ⚡ Fun fact: Military precision meets Rust's memory safety guarantees
 - 🎖️ Former 9/11 era Staff Sergeant, United States Air Force — 20+ years as a software engineer; devoted husband and father
 
@@ -31,7 +35,7 @@
 
 ## 🔥 Current Focus
 
-**Building the next generation of Rust-based AI tooling** - Can't reveal everything yet, but big things coming in the LLM space! 🤫
+**Shipping production Rust AI infrastructure** — Shimmy (5.7k⭐), Airframe (WebGPU inference), Logician (SMT), Schoolmarm (GBNF), FeedMe (streaming ETL). Building the stack so you don't have to.
 
 ---
 
@@ -72,19 +76,12 @@
 >
 > ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide-dsp) ![Version](https://img.shields.io/badge/version-v0.2.0-green) ![Status](https://img.shields.io/badge/Status-Active-blue)
 
-### 🔍 [ContextLite](https://github.com/Michael-A-Kuykendall/contextlite) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/contextlite?style=social)
-> **Database Freedom Platform** - Live and serving retail redistributors. 27,000x faster than vector databases with SMT-powered mathematical search optimization across any database type.
-> 
-> `Go` `SMT Solvers` `Database Agnostic` `Production` `Enterprise Clients`
->
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/contextlite) ![Status](https://img.shields.io/badge/Status-Live_Production-success)
-
 ### 🛠️ **Shimmy Console** (In Development)
-> **Visual management interface** for Shimmy inference servers. Currently building the next-generation tooling for local AI development workflows.
+> **Visual management interface** for Shimmy inference servers. Building the next-generation tooling for local AI development workflows.
 > 
 > `Rust` `Tauri` `AI Tooling` `Coming Soon`
 >
-> ![Status](https://img.shields.io/badge/Status-In_Development-yellow) ![Secret Project](https://img.shields.io/badge/Plus_Secret_LLM_Toolchain-🤫-purple)
+> ![Status](https://img.shields.io/badge/Status-In_Development-yellow)
 
 ---
 
@@ -101,6 +98,41 @@
 > `Rust` `AI Insights` `Data Model` `Open Source`
 >
 > ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/botanica) ![Status](https://img.shields.io/badge/Status-Active-blue)
+
+### 🧠 [Airframe](https://github.com/Michael-A-Kuykendall/airframe) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/airframe?style=social)
+> **Pure-Rust WebGPU inference engine** for GGUF models. No C++, no Python, no llama.cpp. Runs on NVIDIA, AMD, Intel, and Apple Silicon.
+>
+> `Rust` `WebGPU` `GGUF` `Inference` `Zero-C++` `Cross-GPU`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/airframe) ![Status](https://img.shields.io/badge/Status-Active-blue)
+
+### 📐 [Logician](https://github.com/Michael-A-Kuykendall/logician) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/logician?style=social)
+> **Sort-checked SMT solver driver for Rust** — Fluent Term API, multi-solver fallback (Z3, CVC5, Yices2), process watchdog, async support. v0.2.0 released.
+>
+> `Rust` `SMT` `Z3` `CVC5` `Yices2` `Formal Verification`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/logician) ![Version](https://img.shields.io/badge/version-v0.2.0-green) ![Status](https://img.shields.io/badge/Status-Active-blue)
+
+### 🌊 [FeedMe](https://github.com/Michael-A-Kuykendall/feedme) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/feedme?style=social)
+> **Memory-safe streaming ETL pipeline in Rust** — Ownership transfer, bounded resources, PII redaction, validation, dead-letter queues, Prometheus metrics. Production-ready.
+>
+> `Rust` `Streaming` `ETL` `PII Redaction` `DLQ` `Prometheus`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/feedme) ![Status](https://img.shields.io/badge/Status-Active-blue)
+
+### 🎯 [Schoolmarm](https://github.com/Michael-A-Kuykendall/schoolmarm) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/schoolmarm?style=social)
+> **Production-grade GBNF grammar-constrained decoding for LLMs** — Zero dependencies, no unsafe code, pure Rust.
+>
+> `Rust` `GBNF` `Grammar` `Constrained Decoding` `LLM` `Zero Deps`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/schoolmarm) ![Status](https://img.shields.io/badge/Status-Active-blue)
+
+### ⚡ [Wanderlust](https://github.com/Michael-A-Kuykendall/wanderlust) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/wanderlust?style=social)
+> **Because your Windows PATH is a dumpster** — Wanderlust silences the entropy, cleans the garbage, and makes your terminal actually work.
+>
+> `Rust` `Windows` `PATH` `CLI` `Terminal`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/wanderlust) ![Status](https://img.shields.io/badge/Status-Active-blue)
 
 ---
 
@@ -122,6 +154,7 @@
 ![LLaMA](https://img.shields.io/badge/-LLaMA-1976D2?style=for-the-badge)
 ![OpenAI API](https://img.shields.io/badge/-OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![SMT Solvers](https://img.shields.io/badge/-SMT_Solvers-4CAF50?style=for-the-badge)
+![WebGPU](https://img.shields.io/badge/-WebGPU-6B46C1?style=for-the-badge&logo=webgpu&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/-Transformers-FF6F00?style=for-the-badge)
 
@@ -147,8 +180,8 @@
 | 🔀 **Pull Requests** | **83** |
 | 📦 **Releases Shipped** | **133** |
 | 🏗️ **Repos Created** | **101** |
-| ⭐ **Stars Earned** | **3,782** |
-| 🍴 **Forks** | **294** |
+| ⭐ **Stars Earned** | **6,000+** |
+| 🍴 **Forks** | **600+** |
 
 **Peak Day: 182 contributions** (Oct 9, 2025) — *Yeah, I don't mess around.*
 
@@ -167,7 +200,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-A-Kuykendall&theme=github-compact&bg_color=0d1117&hide_border=true&point=ff6e96&line=ff6e96&color=ffffff" width="100%" />
 
 ![Followers](https://img.shields.io/github/followers/Michael-A-Kuykendall?style=for-the-badge&color=blue&label=Followers)
-![Stars](https://img.shields.io/badge/Total_Stars-3782-gold?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Total_Stars-6000%2B-gold?style=for-the-badge)
 ![Commits](https://img.shields.io/badge/Commits-2566-brightgreen?style=for-the-badge)
 ![Releases](https://img.shields.io/badge/Releases-133-purple?style=for-the-badge)
 
