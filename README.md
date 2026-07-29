@@ -42,11 +42,18 @@
 ## 🌟 Featured Projects
 
 ### 🚀 [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/shimmy?style=social) 🔥
-> **The Privacy-First OpenAI Alternative** - 5.1MB single-binary Rust inference server. **3.5k+ stars!** Complete, live, and the Ollama alternative developers actually want. FREE forever, no asterisks.
+> **The Privacy-First OpenAI Alternative** - 5.1MB single-binary Rust inference server. **5.7k+ stars!** Complete, live, and the Ollama alternative developers actually want. FREE forever, no asterisks.
 > 
 > `Rust` `OpenAI Compatible` `GGUF` `Zero-Config` `5MB Binary` `FREE Forever`
 >
 > ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/shimmy) ![Forks](https://img.shields.io/github/forks/Michael-A-Kuykendall/shimmy?style=social) ![Featured on Hacker News](https://img.shields.io/badge/Hacker_News-Front_Page-orange)
+
+### 🧠 [Airframe](https://github.com/Michael-A-Kuykendall/airframe) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/airframe?style=social)
+> **Pure-Rust WebGPU inference engine for GGUF models** — The library I wrote, all in Rust. No C++, no Python, no llama.cpp. Runs on NVIDIA, AMD, Intel, and Apple Silicon.
+>
+> `Rust` `WebGPU` `GGUF` `Inference` `Zero-C++` `Cross-GPU`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/airframe) ![Status](https://img.shields.io/badge/Status-Active-blue)
 
 ### 📸 [CrabCamera](https://github.com/Michael-A-Kuykendall/crabcamera) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/crabcamera?style=social)
 > **Professional Desktop Camera + Audio Plugin** - v0.7.0 Tauri plugin with MediaFoundation controls, synchronized A/V recording, auto-capture quality validation. 134 ⭐ and growing!
@@ -76,13 +83,6 @@
 >
 > ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide-dsp) ![Version](https://img.shields.io/badge/version-v0.2.0-green) ![Status](https://img.shields.io/badge/Status-Active-blue)
 
-### 🛠️ **Shimmy Console** (In Development)
-> **Visual management interface** for Shimmy inference servers. Building the next-generation tooling for local AI development workflows.
-> 
-> `Rust` `Tauri` `AI Tooling` `Coming Soon`
->
-> ![Status](https://img.shields.io/badge/Status-In_Development-yellow)
-
 ---
 
 ### 🦀 [RustChain Community](https://github.com/Michael-A-Kuykendall/rustchain-community) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/rustchain-community?style=social)
@@ -98,13 +98,6 @@
 > `Rust` `AI Insights` `Data Model` `Open Source`
 >
 > ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/botanica) ![Status](https://img.shields.io/badge/Status-Active-blue)
-
-### 🧠 [Airframe](https://github.com/Michael-A-Kuykendall/airframe) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/airframe?style=social)
-> **Pure-Rust WebGPU inference engine** for GGUF models. No C++, no Python, no llama.cpp. Runs on NVIDIA, AMD, Intel, and Apple Silicon.
->
-> `Rust` `WebGPU` `GGUF` `Inference` `Zero-C++` `Cross-GPU`
->
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/airframe) ![Status](https://img.shields.io/badge/Status-Active-blue)
 
 ### 📐 [Logician](https://github.com/Michael-A-Kuykendall/logician) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/logician?style=social)
 > **Sort-checked SMT solver driver for Rust** — Fluent Term API, multi-solver fallback (Z3, CVC5, Yices2), process watchdog, async support. v0.2.0 released.
@@ -171,26 +164,26 @@
 
 <div align="center">
 
-### 🚀 2025 Output — First Year on GitHub
+### 🚀 2025-2026 Output — Year 2 on GitHub
 
 | Metric | Count |
 |--------|-------|
-| 🔥 **Total Contributions** | **2,800+** |
-| 📝 **Commits** | **2,500+** |
-| 🔀 **Pull Requests** | **83** |
-| 📦 **Releases Shipped** | **133** |
-| 🏗️ **Repos Created** | **101** |
+| 🔥 **Total Contributions** | **6,600+** |
+| 📝 **Commits** | **5,000+** |
+| 🔀 **Pull Requests** | **100+** |
+| 📦 **Releases Shipped** | **150+** |
+| 🏗️ **Repos Created** | **111** |
 | ⭐ **Stars Earned** | **6,000+** |
 | 🍴 **Forks** | **600+** |
 
-**Peak Day: 182 contributions** (Oct 9, 2025) — *Yeah, I don't mess around.*
+**2026 YTD: 3,354 contributions** (and still shipping daily) — *More ass kicked than ever.*
 
 </div>
 
 <div align="center">
 
 ### Stats & Streak
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Michael-A-Kuykendall&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Michael-A-Kuykendall&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Michael-A-Kuykendall&theme=radical&hide_border=true&background=0d1117&cache_seconds=86400" width="48%" />
 
 ### Languages & Activity
@@ -201,8 +194,8 @@
 
 ![Followers](https://img.shields.io/github/followers/Michael-A-Kuykendall?style=for-the-badge&color=blue&label=Followers)
 ![Stars](https://img.shields.io/badge/Total_Stars-6000%2B-gold?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-2566-brightgreen?style=for-the-badge)
-![Releases](https://img.shields.io/badge/Releases-133-purple?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-5000%2B-brightgreen?style=for-the-badge)
+![Releases](https://img.shields.io/badge/Releases-150%2B-purple?style=for-the-badge)
 
 </div>
 
