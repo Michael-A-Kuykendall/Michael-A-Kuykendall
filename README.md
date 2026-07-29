@@ -24,6 +24,7 @@
 - 🔧 Released **Logician** v0.2.0 — Sort-checked SMT solver driver for Rust (Z3, CVC5, Yices2)
 - 🌊 Released **FeedMe** — Memory-safe streaming ETL pipeline in Rust (PII redaction, DLQ, Prometheus)
 - 🎯 Released **Schoolmarm** — Production-grade GBNF grammar-constrained decoding for LLMs
+- 🎵 Building **Auxide Ecosystem** (4 crates) — Real-time audio kernel, 50+ DSP nodes, I/O, MIDI. Pure Rust, provably RT-safe
 - ⚡ Released **Wanderlust** — Windows PATH cleanup utility that actually works
 - 💬 Ask me about Rust, Go, Scala, AI Infrastructure, Systems Architecture, SMT Solvers, WebGPU
 - ⚡ Fun fact: Military precision meets Rust's memory safety guarantees
@@ -35,7 +36,7 @@
 
 ## 🔥 Current Focus
 
-**Shipping production Rust AI infrastructure** — Shimmy (5.7k⭐), Airframe (WebGPU inference), Logician (SMT), Schoolmarm (GBNF), FeedMe (streaming ETL). Building the stack so you don't have to.
+**Shipping production Rust AI infrastructure** — Shimmy (5.7k⭐), Airframe (WebGPU inference), Auxide Ecosystem (4 RT-audio crates), Logician (SMT), Schoolmarm (GBNF), FeedMe (streaming ETL). Building the stack so you don't have to.
 
 ---
 
@@ -69,19 +70,64 @@
 >
 > ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/muxide) ![Version](https://img.shields.io/badge/version-v0.2.0-green) ![Status](https://img.shields.io/badge/Status-Active-blue)
 
-### �🎵 [Auxide](https://github.com/Michael-A-Kuykendall/auxide) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide?style=social)
-> **Real-Time Audio Kernel** - v0.3.0 with 50+ DSP nodes, correct-by-construction graph execution, RT-safe processing. The foundation for next-generation audio applications.
-> 
-> `Rust` `Real-Time Audio` `DSP` `50+ Nodes` `RT-Safe` `Graph-Based`
->
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide) ![Version](https://img.shields.io/badge/version-v0.2.2-green) ![DSP Nodes](https://img.shields.io/badge/DSP_Nodes-50+-blue)
+---
 
-### 🔊 [Auxide-DSP](https://github.com/Michael-A-Kuykendall/auxide-dsp) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide-dsp?style=social)
-> **DSP Utilities Library** - High-performance DSP building blocks for Auxide, including wavetables, windows, FFT utilities, and real-time safe algorithms.
-> 
-> `Rust` `DSP Utilities` `FFT` `Wavetables` `Real-Time Safe`
+### 🎵 Auxide Audio Ecosystem
+
+A modular, real-time-safe audio processing stack built entirely in Rust. From kernel to I/O, every component is designed for deterministic, low-latency performance.
+
+#### Public Crates
+
+##### 🎵 [Auxide](https://github.com/Michael-A-Kuykendall/auxide) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide?style=social)
+> Audio graph kernel with provable RT-safety and deterministic execution. Correct-by-construction graphs, zero allocations in hot paths. The foundation for next-generation audio applications.
 >
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide-dsp) ![Version](https://img.shields.io/badge/version-v0.2.0-green) ![Status](https://img.shields.io/badge/Status-Active-blue)
+> `Rust` `Audio` `Real-Time` `DSP` `Graph-Based` `RT-Safe`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide) ![Forks](https://img.shields.io/github/forks/Michael-A-Kuykendall/auxide?style=social) ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
+
+##### ⚡ [Auxide-DSP](https://github.com/Michael-A-Kuykendall/auxide-dsp) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide-dsp?style=social)
+> 50+ RT-safe DSP nodes — oscillators, filters, effects, envelopes, modulators, and utilities. Complete toolkit for professional audio synthesis and processing.
+>
+> `Rust` `DSP` `Audio Processing` `Real-Time Safe` `Synthesis` `Effects`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide-dsp) ![Forks](https://img.shields.io/github/forks/Michael-A-Kuykendall/auxide-dsp?style=social) ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
+
+##### ⚡ [Auxide-IO](https://github.com/Michael-A-Kuykendall/auxide-io) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide-io?style=social)
+> High-performance real-time audio I/O for Auxide DSP graphs. RT-safe streaming with buffer adaptation, channel routing, and cross-platform hardware output via CPAL.
+>
+> `Rust` `Audio I/O` `Real-Time` `CPAL` `Cross-Platform`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide-io) ![Forks](https://img.shields.io/github/forks/Michael-A-Kuykendall/auxide-io?style=social) ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
+
+##### 🎵 [Auxide-MIDI](https://github.com/Michael-A-Kuykendall/auxide-midi) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide-midi?style=social)
+> Real-time MIDI input and polyphonic synthesis for Auxide DSP graphs. Voice allocation, CC mapping, and seamless integration with auxide-dsp nodes.
+>
+> `Rust` `MIDI` `Real-Time` `Polyphonic` `Synthesis`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide-midi) ![Forks](https://img.shields.io/github/forks/Michael-A-Kuykendall/auxide-midi?style=social) ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
+
+#### Coming Soon
+
+##### ⏳ Auxide-Conductor
+> Multi-engine orchestration layer — coordinate multiple Auxide graphs across threads, manage real-time priority inheritance, and route audio between engines with zero-copy.
+>
+> `Rust` `Orchestration` `Multi-Thread` `Zero-Copy` `Real-Time`
+>
+> ![Status](https://img.shields.io/badge/Status-Coming_Soon-ff8800) ![Progress](https://img.shields.io/badge/-Public_release_incoming-ff8800)
+
+##### ⏳ Auxide-Proto
+> Protocol definitions and RPC layer for the Auxide ecosystem — enable distributed audio processing, remote control surfaces, and plugin discovery across a network of real-time audio nodes.
+>
+> `Rust` `Protocol` `RPC` `Distributed` `Network`
+>
+> ![Status](https://img.shields.io/badge/Status-Coming_Soon-ff8800) ![Progress](https://img.shields.io/badge/-Under_active_development-ff8800)
+
+##### ⏳ Auxide-Server
+> Network-accessible audio processing server — host Auxide graphs as a service, accept streaming audio over WebSockets, and expose DSP pipelines via a REST/WS API for integration with any application.
+>
+> `Rust` `Server` `WebSocket` `REST API` `Streaming`
+>
+> ![Status](https://img.shields.io/badge/Status-Coming_Soon-ff8800)
 
 ---
 
