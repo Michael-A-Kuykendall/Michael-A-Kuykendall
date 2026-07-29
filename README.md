@@ -212,7 +212,7 @@
 [**ZephyrCloudIO**](https://github.com/ZephyrCloudIO)
 
 **Current Sponsors:**  
-[@omarmciver](https://github.com/omarmciver) | [@alistairheath](https://github.com/alistairheath)
+[@gqf2008](https://github.com/gqf2008) | [@alistairheath](https://github.com/alistairheath)
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Michael-A-Kuykendall?style=social)](https://github.com/sponsors/Michael-A-Kuykendall)
 
