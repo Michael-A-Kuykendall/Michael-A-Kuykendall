@@ -260,8 +260,8 @@ A modular, real-time-safe audio processing stack built entirely in Rust. From ke
 ### Languages & Activity
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Michael-A-Kuykendall&layout=compact&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="100%" />
 
-### Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-A-Kuykendall&theme=github-compact&bg_color=0d1117&hide_border=true&point=ff6e96&line=ff6e96&color=ffffff" width="100%" />
+### Contribution Graph (2025–Present)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-A-Kuykendall&theme=github-compact&bg_color=0d1117&hide_border=true&point=ff6e96&line=ff6e96&color=ffffff&from=2025-01-01&height=400" width="100%" />
 
 ![Followers](https://img.shields.io/github/followers/Michael-A-Kuykendall?style=for-the-badge&color=blue&label=Followers)
 ![Stars](https://img.shields.io/badge/Total_Stars-6000%2B-gold?style=for-the-badge)
