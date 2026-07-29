@@ -210,19 +210,44 @@ A modular, real-time-safe audio processing stack built entirely in Rust. From ke
 
 <div align="center">
 
-### 🚀 2025-2026 Output — Year 2 on GitHub
+### 📈 Two Years of Shipping
+
+<table>
+<tr>
+<th align="center">Year One — 2025</th>
+<th align="center">Year Two — 2026</th>
+</tr>
+<tr>
+<td>
 
 | Metric | Count |
 |--------|-------|
-| 🔥 **Total Contributions** | **6,600+** |
-| 📝 **Commits** | **5,000+** |
-| 🔀 **Pull Requests** | **100+** |
-| 📦 **Releases Shipped** | **150+** |
-| 🏗️ **Repos Created** | **111** |
-| ⭐ **Stars Earned** | **6,000+** |
-| 🍴 **Forks** | **600+** |
+| 🔥 **Contributions** | **3,300+** |
+| 📝 **Commits** | **2,500+** |
+| 🔀 **Pull Requests** | **50+** |
+| 📦 **Releases** | **80+** |
+| 🏗️ **Repos Created** | **65** |
+| ⭐ **Stars** | **3,000+** |
+| 🍴 **Forks** | **300+** |
 
-**2026 YTD: 3,354 contributions** (and still shipping daily) — *More ass kicked than ever.*
+</td>
+<td>
+
+| Metric | Count (YTD) |
+|--------|-------------|
+| 🔥 **Contributions** | **3,354** |
+| 📝 **Commits** | **2,500+** |
+| 🔀 **Pull Requests** | **50+** |
+| 📦 **Releases** | **70+** |
+| 🏗️ **Repos Created** | **46** |
+| ⭐ **Stars** | **3,000+** |
+| 🍴 **Forks** | **300+** |
+
+</td>
+</tr>
+</table>
+
+*More ass kicked than ever.*
 
 </div>
 
