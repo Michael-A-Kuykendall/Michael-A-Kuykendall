@@ -4,9 +4,6 @@
 	<img src="https://rustacean.net/assets/rustacean-flat-happy.svg" alt="Rustacean" width="80" />
 	<div><em>Fast • Safe • Concurrent — Code with purpose, deploy with confidence</em></div>
 
-[![Trans rights](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)](https://translifeline.org/)
-[![LGBTQ+ friendly](https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982)](https://www.thetrevorproject.org/)
-
 	<div>
 		<span style="color:#e53935;font-weight:bold;">Proud</span>
 		<span style="background:#0d1117;color:#ffffff;padding:2px 6px;border-radius:4px;margin:0 4px;">USAF</span>
@@ -35,8 +32,6 @@
 - 🎖️ Former 9/11 era Staff Sergeant, United States Air Force — 20+ years as a software engineer; devoted husband and father
 
 ---
-
- 
 
 ## 🔥 Current Focus
 
@@ -289,7 +284,7 @@ A modular, real-time-safe audio processing stack built entirely in Rust. From ke
 **Current Sponsors:**  
 [@gqf2008](https://github.com/gqf2008) | [@alistairheath](https://github.com/alistairheath)
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/Michael-A-Kuykendall?style=social)](https://github.com/sponsors/Michael-A-Kuykendall)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Michael-A-Kuykendall?style=social)](https://github.com/sponsors/Michael-A-Kuykendall) [![Trans rights](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)](https://translifeline.org/) [![LGBTQ+ friendly](https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982)](https://www.thetrevorproject.org/)
 
 </div>
 
