@@ -253,19 +253,17 @@ A modular, real-time-safe audio processing stack built entirely in Rust. From ke
 <div align="center">
 
 ### Stats & Streak
-<img src="https://github-readme-stats.vercel.app/api?username=Michael-A-Kuykendall&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=Michael-A-Kuykendall&theme=radical&hide_border=true&background=0d1117&cache_seconds=86400" width="48%" />
+[![GitHub Stats](https://img.shields.io/github/stars/Michael-A-Kuykendall?style=for-the-badge&color=yellow&label=Total%20Stars)](https://github.com/Michael-A-Kuykendall?tab=repositories)
+[![GitHub Followers](https://img.shields.io/github/followers/Michael-A-Kuykendall?style=for-the-badge&color=blue&label=Followers)](https://github.com/Michael-A-Kuykendall)
+[![Commits](https://img.shields.io/badge/Commits-5000%2B-brightgreen?style=for-the-badge)](https://github.com/Michael-A-Kuykendall?tab=overview&from=2025-01-01)
+[![Releases](https://img.shields.io/badge/Releases-150%2B-purple?style=for-the-badge)](https://github.com/Michael-A-Kuykendall?tab=repositories)
 
 ### Languages & Activity
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Michael-A-Kuykendall&layout=compact&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="100%" />
+[![Top Language: Rust](https://img.shields.io/badge/Top%20Language-Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Michael-A-Kuykendall?tab=repositories&q=&type=source&language=rust)
+[![Profile Views](https://komarev.com/ghpvc/?username=Michael-A-Kuykendall&style=for-the-badge&color=blueviolet&label=Profile%20Views)](https://github.com/Michael-A-Kuykendall)
 
-### Contribution Graph (2025–Present)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Michael-A-Kuykendall&theme=github-compact&bg_color=0d1117&hide_border=true&point=ff6e96&line=ff6e96&color=ffffff&from=2025-01-01&height=400" width="100%" />
-
-![Followers](https://img.shields.io/github/followers/Michael-A-Kuykendall?style=for-the-badge&color=blue&label=Followers)
-![Stars](https://img.shields.io/badge/Total_Stars-6000%2B-gold?style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-5000%2B-brightgreen?style=for-the-badge)
-![Releases](https://img.shields.io/badge/Releases-150%2B-purple?style=for-the-badge)
+### Contribution Graph
+[![GitHub Contributions](https://img.shields.io/badge/Contributions-3,354%20YTD-2ea44f?style=for-the-badge&logo=github)](https://github.com/Michael-A-Kuykendall?tab=overview&from=2025-01-01)
 
 </div>
 
