@@ -280,7 +280,7 @@ A modular, real-time-safe audio processing stack built entirely in Rust. From ke
 [**ZephyrCloudIO**](https://github.com/ZephyrCloudIO)
 
 **Current Sponsors:**  
-[@gqf2008](https://github.com/gqf2008) | [@alistairheath](https://github.com/alistairheath)
+[@alistairheath](https://github.com/alistairheath)
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Michael-A-Kuykendall?style=social)](https://github.com/sponsors/Michael-A-Kuykendall) [![Trans rights](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)](https://translifeline.org/) [![LGBTQ+ friendly](https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982)](https://www.thetrevorproject.org/)
 
