@@ -69,6 +69,13 @@
 >
 > ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/muxide) ![Status](https://img.shields.io/badge/Status-Active-blue)
 
+### 🧩 [ShimmyJinja](https://github.com/Michael-A-Kuykendall/shimmyjinja) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/shimmyjinja?style=social)
+> **Pure-Rust Jinja2 engine for Hugging Face `chat_template` strings** — turns a GGUF file's template field into a correctly-formatted LLM prompt, no Python. Powers Shimmy/Airframe prompting alongside ShimmyTok.
+>
+> `Rust` `Jinja2` `chat_template` `GGUF` `Zero Python`
+>
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/shimmyjinja) ![Crates.io](https://img.shields.io/crates/v/shimmyjinja) ![Status](https://img.shields.io/badge/Status-Active-blue)
+
 ---
 
 ### 🎵 Auxide Audio Ecosystem
@@ -196,11 +203,11 @@ A modular, real-time-safe audio processing stack built entirely in Rust. From ke
 
 | Metric | Count (YTD) |
 |--------|-------------|
-| 🔥 **Contributions** | **3,500+** |
+| 🔥 **Contributions** | **8,600+** |
 | 📝 **Commits** | **2,500+** |
 | 🔀 **Pull Requests** | **50+** |
 | 📦 **Releases** | **70+** |
-| 🏗️ **Repos Created** | **50+** |
+| 🏗️ **Repos Created** | **70+** |
 | ⭐ **Stars** | **6,000+** |
 | 🍴 **Forks** | **600+** |
 
@@ -218,14 +225,14 @@ A modular, real-time-safe audio processing stack built entirely in Rust. From ke
 [![GitHub Stats](https://img.shields.io/github/stars/Michael-A-Kuykendall?style=for-the-badge&color=yellow&label=Total%20Stars)](https://github.com/Michael-A-Kuykendall?tab=repositories)
 [![GitHub Followers](https://img.shields.io/github/followers/Michael-A-Kuykendall?style=for-the-badge&color=blue&label=Followers)](https://github.com/Michael-A-Kuykendall)
 [![Commits](https://img.shields.io/badge/Commits-5000%2B-brightgreen?style=for-the-badge)](https://github.com/Michael-A-Kuykendall?tab=overview&from=2025-01-01)
-[![Releases](https://img.shields.io/badge/Releases-150%2B-purple?style=for-the-badge)](https://github.com/Michael-A-Kuykendall?tab=repositories)
+[![Releases](https://img.shields.io/badge/Releases-190%2B-purple?style=for-the-badge)](https://github.com/Michael-A-Kuykendall?tab=repositories)
 
 ### Languages & Activity
 [![Top Language: Rust](https://img.shields.io/badge/Top%20Language-Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Michael-A-Kuykendall?tab=repositories&q=&type=source&language=rust)
 [![Profile Views](https://komarev.com/ghpvc/?username=Michael-A-Kuykendall&style=for-the-badge&color=blueviolet&label=Profile%20Views)](https://github.com/Michael-A-Kuykendall)
 
 ### Contribution Graph
-[![GitHub Contributions](https://img.shields.io/badge/Contributions-3500%2B%20YTD-2ea44f?style=for-the-badge&logo=github)](https://github.com/Michael-A-Kuykendall?tab=overview&from=2025-01-01)
+[![GitHub Contributions](https://img.shields.io/badge/Contributions-8600%2B%20YTD-2ea44f?style=for-the-badge&logo=github)](https://github.com/Michael-A-Kuykendall?tab=overview&from=2026-01-01)
 
 </div>
 
