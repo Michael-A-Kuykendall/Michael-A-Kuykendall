@@ -1,14 +1,13 @@
 <div align="center">
-	<img src="https://readme-typing-svg.demolab.com?lines=Michael+A.+Kuykendall;Senior+Full+Stack+Software+Engineer;Rustacean+%E2%80%94+AI+Infra%2FTooling;20-Year+Systems+Engineer;Proud+USAF+Veteran&center=true&width=800&color=00B0FF&size=28" alt="Typing SVG" />
-	<br/>
-	<img src="https://rustacean.net/assets/rustacean-flat-happy.svg" alt="Rustacean" width="80" />
-	<div><em>Fast • Safe • Concurrent — Code with purpose, deploy with confidence</em></div>
-
-	<div>
-		<strong style="color:#e53935;">Proud</strong>
-		<code style="background:#0d1117;color:#ffffff;padding:2px 6px;border-radius:4px;margin:0 4px;">USAF</code>
-		<strong style="color:#1e88e5;">Veteran</strong>
-	</div>
+<img src="https://readme-typing-svg.demolab.com?lines=Michael+A.+Kuykendall;Senior+Full+Stack+Software+Engineer;Rustacean+%E2%80%94+AI+Infra%2FTooling;20-Year+Systems+Engineer;Proud+USAF+Veteran&center=true&width=800&color=00B0FF&size=28" alt="Typing SVG" />
+<br/>
+<img src="https://rustacean.net/assets/rustacean-flat-happy.svg" alt="Rustacean" width="80" />
+<div><em>Fast • Safe • Concurrent — Code with purpose, deploy with confidence</em></div>
+<div>
+<img src="https://img.shields.io/badge/Proud-e53935?style=flat" alt="Proud" />
+<img src="https://img.shields.io/badge/USAF-0d1117?style=flat" alt="USAF" />
+<img src="https://img.shields.io/badge/Veteran-1e88e5?style=flat" alt="Veteran" />
+</div>
 </div>
 
 ---
