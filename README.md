@@ -5,9 +5,9 @@
 	<div><em>Fast • Safe • Concurrent — Code with purpose, deploy with confidence</em></div>
 
 	<div>
-		<span style="color:#e53935;font-weight:bold;">Proud</span>
-		<span style="background:#0d1117;color:#ffffff;padding:2px 6px;border-radius:4px;margin:0 4px;">USAF</span>
-		<span style="color:#1e88e5;font-weight:bold;">Veteran</span>
+		<strong style="color:#e53935;">Proud</strong>
+		<code style="background:#0d1117;color:#ffffff;padding:2px 6px;border-radius:4px;margin:0 4px;">USAF</code>
+		<strong style="color:#1e88e5;">Veteran</strong>
 	</div>
 </div>
 
@@ -16,58 +16,58 @@
 ## About Me
 
 - 🦀 Proud Rustacean building the next generation of high-performance systems
-- 🚀 Maintaining **Shimmy** — Pure-Rust WebGPU inference engine, OpenAI-API compatible, GGUF native (5.7k ⭐)
-- 📸 Built **CrabCamera** v0.7.0 - Professional desktop camera + audio plugin for Tauri (166 ⭐)
-- 🔤 Released **ShimmyTok** v0.7.1 - Pure Rust tokenizer for GGUF models, 100% llama.cpp parity
-- 🎬 Built **Muxide** v0.2.0 - Pure Rust MP4 muxer, zero deps, no FFmpeg (70 ⭐)
-- 🔐 Maintaining **Gatewarden** - Hardened Keygen.sh license validation for Rust (Ed25519, replay protection)
-- 🛠️ Released **Airframe** — Pure-Rust WebGPU inference engine for GGUF (no C++, no Python, no llama.cpp)
-- 🔧 Released **Logician** v0.2.0 — Sort-checked SMT solver driver for Rust (Z3, CVC5, Yices2)
-- 🌊 Released **FeedMe** — Memory-safe streaming ETL pipeline in Rust (PII redaction, DLQ, Prometheus)
-- 🎯 Released **Schoolmarm** — Production-grade GBNF grammar-constrained decoding for LLMs
-- 🎵 Building **Auxide Ecosystem** (4 crates) — Real-time audio kernel, 50+ DSP nodes, I/O, MIDI. Pure Rust, provably RT-safe
-- ⚡ Released **Wanderlust** — Windows PATH cleanup utility that actually works
-- 💬 Ask me about Rust, Go, Scala, AI Infrastructure, Systems Architecture, SMT Solvers, WebGPU
+- 🚀 Maintaining **[Shimmy](https://github.com/Michael-A-Kuykendall/shimmy)** — Pure-Rust OpenAI-compatible local inference (WebGPU engine via Airframe). GGUF-native, single binary, no Python, no llama.cpp. **6k+ ⭐**
+- 🧠 Released **[Airframe](https://github.com/Michael-A-Kuykendall/airframe)** 0.4.5 — Pure-Rust WebGPU inference engine for GGUF. Coordinated with Shimmy 2.6.6
+- 📝 Released **[Schoolmarm](https://github.com/Michael-A-Kuykendall/schoolmarm)** — Production-grade GBNF grammar-constrained decoding for LLMs. Zero deps, no unsafe
+- 🔤 Released **[ShimmyTok](https://github.com/Michael-A-Kuykendall/shimmytok)** — Pure Rust GGUF tokenizer, full llama.cpp parity, zero FFI, zero unsafe, WASM-ready
+- 🎙️ Released **[Hearsay-IV](https://github.com/Michael-A-Kuykendall/hearsay-four)** — Offline model-free speech transcription (rule-based phonetics + saturation-fabric provenance)
+- ✨ Released **[Sorcery](https://github.com/Michael-A-Kuykendall/sorcery)** — Compact notation for turning high-context architectural intent into test-bound “spells” for lower-context models
+- 📸 Built **[CrabCamera](https://github.com/Michael-A-Kuykendall/crabcamera)** — Professional desktop camera + audio plugin for Tauri
+- 🎵 Building **Auxide Ecosystem** — Real-time audio graph kernel with provable RT-safety (4 crates)
+- 🔒 Maintaining **[Logician](https://github.com/Michael-A-Kuykendall/logician)** — Sort-checked SMT solver driver for Rust
+- 🚀 Released **[FeedMe](https://github.com/Michael-A-Kuykendall/feedme)** — Memory-safe streaming ETL with PII redaction
+- ⚡ Released **[Wanderlust](https://github.com/Michael-A-Kuykendall/wanderlust)** — Windows PATH cleanup utility
+- 💬 Ask me about Rust, AI Infrastructure, Systems Architecture, WebGPU, SMT, constrained decoding
 - ⚡ Fun fact: Military precision meets Rust's memory safety guarantees
-- 🎖️ Former 9/11 era Staff Sergeant, United States Air Force — 20+ years as a software engineer; devoted husband and father
+- 🎖️ Former 9/11-era Staff Sergeant, United States Air Force — 20+ years as a software engineer; devoted husband and father
 
 ---
 
 ## 🔥 Current Focus
 
-**Shipping production Rust AI infrastructure** — Shimmy (5.7k⭐), Airframe (WebGPU inference), Auxide Ecosystem (4 RT-audio crates), Logician (SMT), Schoolmarm (GBNF), FeedMe (streaming ETL). Building the stack so you don't have to.
+**Shipping production Rust AI infrastructure** — Coordinated releases of Shimmy 2.6.6 + Airframe 0.4.5 (dense-text correctness, dependency security, documentation). Ongoing work on constrained decoding (Schoolmarm), provenance engines (Hearsay-IV), intent transmission (Sorcery), and the broader Auxide / Logician / FeedMe stack. Building the stack so you don't have to.
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🚀 [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/shimmy?style=social) 🔥
-> **The Privacy-First OpenAI Alternative** - 5.1MB single-binary Rust inference server. **5.7k+ stars!** Complete, live, and the Ollama alternative developers actually want. FREE forever, no asterisks.
+> **The Privacy-First OpenAI Alternative** — Single-binary Rust inference server. **6k+ stars!** Complete, live, and the Ollama alternative developers actually want. FREE forever, no asterisks.
 > 
-> `Rust` `OpenAI Compatible` `GGUF` `Zero-Config` `5MB Binary` `FREE Forever`
+> `Rust` `OpenAI Compatible` `GGUF` `Zero-Config` `Single Binary` `FREE Forever`
 >
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/shimmy) ![Forks](https://img.shields.io/github/forks/Michael-A-Kuykendall/shimmy?style=social) ![Featured on Hacker News](https://img.shields.io/badge/Hacker_News-Front_Page-orange)
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/shimmy) ![Forks](https://img.shields.io/github/forks/Michael-A-Kuykendall/shimmy?style=social)
 
 ### 🧠 [Airframe](https://github.com/Michael-A-Kuykendall/airframe) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/airframe?style=social)
-> **Pure-Rust WebGPU inference engine for GGUF models** — The library I wrote, all in Rust. No C++, no Python, no llama.cpp. Runs on NVIDIA, AMD, Intel, and Apple Silicon.
+> **Pure-Rust WebGPU inference engine for GGUF models** — The library behind Shimmy. No C++, no Python, no llama.cpp. Runs on NVIDIA, AMD, Intel, and Apple Silicon. v0.4.5.
 >
 > `Rust` `WebGPU` `GGUF` `Inference` `Zero-C++` `Cross-GPU`
 >
 > ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/airframe) ![Status](https://img.shields.io/badge/Status-Active-blue)
 
 ### 📸 [CrabCamera](https://github.com/Michael-A-Kuykendall/crabcamera) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/crabcamera?style=social)
-> **Professional Desktop Camera + Audio Plugin** - v0.7.0 Tauri plugin with MediaFoundation controls, synchronized A/V recording, auto-capture quality validation. 134 ⭐ and growing!
+> **Professional Desktop Camera + Audio Plugin** — Tauri plugin with MediaFoundation controls, synchronized A/V recording, auto-capture quality validation.
 > 
-> `Rust` `Tauri` `Professional Controls` `Cross-Platform` `Production Ready` `63 Tests`
+> `Rust` `Tauri` `Professional Controls` `Cross-Platform` `Production Ready`
 >
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/crabcamera) ![Version](https://img.shields.io/badge/version-v0.7.0-green) ![Production Ready](https://img.shields.io/badge/Production-Ready-brightgreen)
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/crabcamera) ![Status](https://img.shields.io/badge/Status-Active-blue)
 
-### � [Muxide](https://github.com/Michael-A-Kuykendall/muxide) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/muxide?style=social)
-> **Pure Rust MP4 Muxer** - Zero deps, no FFmpeg. Feed it encoded frames, get standards-compliant MP4. H.264, H.265, AV1, AAC, Opus.
+### 🎬 [Muxide](https://github.com/Michael-A-Kuykendall/muxide) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/muxide?style=social)
+> **Pure Rust MP4 Muxer** — Zero deps, no FFmpeg. Feed it encoded frames, get standards-compliant MP4. H.264, H.265, AV1, AAC, Opus.
 > 
 > `Rust` `MP4` `Muxer` `Video` `Zero Dependencies` `Standards Compliant`
 >
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/muxide) ![Version](https://img.shields.io/badge/version-v0.2.0-green) ![Status](https://img.shields.io/badge/Status-Active-blue)
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/muxide) ![Status](https://img.shields.io/badge/Status-Active-blue)
 
 ---
 
@@ -78,81 +78,44 @@ A modular, real-time-safe audio processing stack built entirely in Rust. From ke
 #### Public Crates
 
 ##### 🎵 [Auxide](https://github.com/Michael-A-Kuykendall/auxide) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide?style=social)
-> Audio graph kernel with provable RT-safety and deterministic execution. Correct-by-construction graphs, zero allocations in hot paths. The foundation for next-generation audio applications.
+> Audio graph kernel with provable RT-safety and deterministic execution. Correct-by-construction graphs, zero allocations in hot paths.
 >
 > `Rust` `Audio` `Real-Time` `DSP` `Graph-Based` `RT-Safe`
 >
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide) ![Forks](https://img.shields.io/github/forks/Michael-A-Kuykendall/auxide?style=social) ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide) ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
 
 ##### ⚡ [Auxide-DSP](https://github.com/Michael-A-Kuykendall/auxide-dsp) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide-dsp?style=social)
-> 50+ RT-safe DSP nodes — oscillators, filters, effects, envelopes, modulators, and utilities. Complete toolkit for professional audio synthesis and processing.
+> 50+ RT-safe DSP nodes — oscillators, filters, effects, envelopes, modulators, and utilities.
 >
 > `Rust` `DSP` `Audio Processing` `Real-Time Safe` `Synthesis` `Effects`
 >
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide-dsp) ![Forks](https://img.shields.io/github/forks/Michael-A-Kuykendall/auxide-dsp?style=social) ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide-dsp) ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
 
 ##### ⚡ [Auxide-IO](https://github.com/Michael-A-Kuykendall/auxide-io) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide-io?style=social)
-> High-performance real-time audio I/O for Auxide DSP graphs. RT-safe streaming with buffer adaptation, channel routing, and cross-platform hardware output via CPAL.
+> High-performance real-time audio I/O for Auxide DSP graphs. RT-safe streaming with buffer adaptation and cross-platform hardware output via CPAL.
 >
 > `Rust` `Audio I/O` `Real-Time` `CPAL` `Cross-Platform`
 >
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide-io) ![Forks](https://img.shields.io/github/forks/Michael-A-Kuykendall/auxide-io?style=social) ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide-io) ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
 
 ##### 🎵 [Auxide-MIDI](https://github.com/Michael-A-Kuykendall/auxide-midi) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/auxide-midi?style=social)
-> Real-time MIDI input and polyphonic synthesis for Auxide DSP graphs. Voice allocation, CC mapping, and seamless integration with auxide-dsp nodes.
+> Real-time MIDI input and polyphonic synthesis for Auxide DSP graphs.
 >
 > `Rust` `MIDI` `Real-Time` `Polyphonic` `Synthesis`
 >
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide-midi) ![Forks](https://img.shields.io/github/forks/Michael-A-Kuykendall/auxide-midi?style=social) ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
-
-#### Coming Soon
-
-##### ⏳ Auxide-Conductor
-> Multi-engine orchestration layer — coordinate multiple Auxide graphs across threads, manage real-time priority inheritance, and route audio between engines with zero-copy.
->
-> `Rust` `Orchestration` `Multi-Thread` `Zero-Copy` `Real-Time`
->
-> ![Status](https://img.shields.io/badge/Status-Coming_Soon-ff8800) ![Progress](https://img.shields.io/badge/-Public_release_incoming-ff8800)
-
-##### ⏳ Auxide-Proto
-> Protocol definitions and RPC layer for the Auxide ecosystem — enable distributed audio processing, remote control surfaces, and plugin discovery across a network of real-time audio nodes.
->
-> `Rust` `Protocol` `RPC` `Distributed` `Network`
->
-> ![Status](https://img.shields.io/badge/Status-Coming_Soon-ff8800) ![Progress](https://img.shields.io/badge/-Under_active_development-ff8800)
-
-##### ⏳ Auxide-Server
-> Network-accessible audio processing server — host Auxide graphs as a service, accept streaming audio over WebSockets, and expose DSP pipelines via a REST/WS API for integration with any application.
->
-> `Rust` `Server` `WebSocket` `REST API` `Streaming`
->
-> ![Status](https://img.shields.io/badge/Status-Coming_Soon-ff8800)
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/auxide-midi) ![Status](https://img.shields.io/badge/Status-Production-brightgreen)
 
 ---
 
-### 🦀 [RustChain Community](https://github.com/Michael-A-Kuykendall/rustchain-community) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/rustchain-community?style=social)
-> **Production-Ready AI Agent Framework** - Built in Rust, 97% faster than Python alternatives. Complete framework for building AI-powered automation workflows.
->
-> `Rust` `AI Agents` `Production Ready` `97% Faster`
->
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/rustchain-community) ![Status](https://img.shields.io/badge/Status-Active-blue)
-
-### 🌿 [Botanica](https://github.com/Michael-A-Kuykendall/botanica) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/botanica?style=social)
-> Professional botanical cultivation database with AI-powered plant insights.
->
-> `Rust` `AI Insights` `Data Model` `Open Source`
->
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/botanica) ![Status](https://img.shields.io/badge/Status-Active-blue)
-
-### 📐 [Logician](https://github.com/Michael-A-Kuykendall/logician) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/logician?style=social)
-> **Sort-checked SMT solver driver for Rust** — Fluent Term API, multi-solver fallback (Z3, CVC5, Yices2), process watchdog, async support. v0.2.0 released.
+### 🔎 [Logician](https://github.com/Michael-A-Kuykendall/logician) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/logician?style=social)
+> **Sort-checked SMT solver driver for Rust** — Fluent Term API, multi-solver fallback (Z3, CVC5, Yices2), process watchdog, async support.
 >
 > `Rust` `SMT` `Z3` `CVC5` `Yices2` `Formal Verification`
 >
-> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/logician) ![Version](https://img.shields.io/badge/version-v0.2.0-green) ![Status](https://img.shields.io/badge/Status-Active-blue)
+> ![Language](https://img.shields.io/github/languages/top/Michael-A-Kuykendall/logician) ![Status](https://img.shields.io/badge/Status-Active-blue)
 
 ### 🌊 [FeedMe](https://github.com/Michael-A-Kuykendall/feedme) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/feedme?style=social)
-> **Memory-safe streaming ETL pipeline in Rust** — Ownership transfer, bounded resources, PII redaction, validation, dead-letter queues, Prometheus metrics. Production-ready.
+> **Memory-safe streaming ETL pipeline in Rust** — Ownership transfer, bounded resources, PII redaction, validation, dead-letter queues, Prometheus metrics.
 >
 > `Rust` `Streaming` `ETL` `PII Redaction` `DLQ` `Prometheus`
 >
@@ -178,7 +141,6 @@ A modular, real-time-safe audio processing stack built entirely in Rust. From ke
 
 ### **Core Languages** 🦀
 ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)
-![Rustacean](https://img.shields.io/badge/-🦀_Rustacean-CE422B?style=for-the-badge&logoColor=white&labelColor=000000)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -234,13 +196,13 @@ A modular, real-time-safe audio processing stack built entirely in Rust. From ke
 
 | Metric | Count (YTD) |
 |--------|-------------|
-| 🔥 **Contributions** | **3,354** |
+| 🔥 **Contributions** | **3,500+** |
 | 📝 **Commits** | **2,500+** |
 | 🔀 **Pull Requests** | **50+** |
 | 📦 **Releases** | **70+** |
-| 🏗️ **Repos Created** | **46** |
-| ⭐ **Stars** | **3,000+** |
-| 🍴 **Forks** | **300+** |
+| 🏗️ **Repos Created** | **50+** |
+| ⭐ **Stars** | **6,000+** |
+| 🍴 **Forks** | **600+** |
 
 </td>
 </tr>
@@ -263,7 +225,7 @@ A modular, real-time-safe audio processing stack built entirely in Rust. From ke
 [![Profile Views](https://komarev.com/ghpvc/?username=Michael-A-Kuykendall&style=for-the-badge&color=blueviolet&label=Profile%20Views)](https://github.com/Michael-A-Kuykendall)
 
 ### Contribution Graph
-[![GitHub Contributions](https://img.shields.io/badge/Contributions-3,354%20YTD-2ea44f?style=for-the-badge&logo=github)](https://github.com/Michael-A-Kuykendall?tab=overview&from=2025-01-01)
+[![GitHub Contributions](https://img.shields.io/badge/Contributions-3500%2B%20YTD-2ea44f?style=for-the-badge&logo=github)](https://github.com/Michael-A-Kuykendall?tab=overview&from=2025-01-01)
 
 </div>
 
@@ -302,6 +264,7 @@ If my work helps you, consider [sponsoring](https://github.com/sponsors/Michael-
 *Building tomorrow's infrastructure, today.*
 
 </div>
+
 ## Support
 
 This project is a safe space. Trans rights are human rights.
@@ -311,4 +274,3 @@ If you or someone you love needs support:
 - [The Trevor Project](https://www.thetrevorproject.org/) — 24/7 for LGBTQ+ young people. Call 1-866-488-7386 or text START to 678-678
 - [Trans Lifeline](https://translifeline.org/) — peer support run by and for trans people. US: 877-565-8860
 - [988 Suicide & Crisis Lifeline](https://988lifeline.org/) — call or text 988
-
