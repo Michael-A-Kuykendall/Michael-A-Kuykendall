@@ -15,7 +15,7 @@
 ## About Me
 
 - 🦀 Proud Rustacean building the next generation of high-performance systems
-- 🚀 Maintaining **[Shimmy](https://github.com/Michael-A-Kuykendall/shimmy)** — Pure-Rust OpenAI-compatible local inference (WebGPU engine via Airframe). GGUF-native, single binary, no Python, no llama.cpp. **6k+ ⭐**
+- 🚀 Maintaining **[Shimmy](https://github.com/Michael-A-Kuykendall/shimmy)** — Pure-Rust OpenAI-compatible local inference (WebGPU engine via Airframe). GGUF-native, single binary, no Python, no llama.cpp. **6010 ⭐**
 - 🧠 Released **[Airframe](https://github.com/Michael-A-Kuykendall/airframe)** 0.4.5 — Pure-Rust WebGPU inference engine for GGUF. Coordinated with Shimmy 2.6.6
 - 📝 Released **[Schoolmarm](https://github.com/Michael-A-Kuykendall/schoolmarm)** — Production-grade GBNF grammar-constrained decoding for LLMs. Zero deps, no unsafe
 - 🔤 Released **[ShimmyTok](https://github.com/Michael-A-Kuykendall/shimmytok)** — Pure Rust GGUF tokenizer, full llama.cpp parity, zero FFI, zero unsafe, WASM-ready
@@ -41,7 +41,7 @@
 ## 🌟 Featured Projects
 
 ### 🚀 [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) ![Stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/shimmy?style=social) 🔥
-> **The Privacy-First OpenAI Alternative** — Single-binary Rust inference server. **6k+ stars!** Complete, live, and the Ollama alternative developers actually want. FREE forever, no asterisks.
+> **The Privacy-First OpenAI Alternative** — Single-binary Rust inference server. **6010 stars!** Complete, live, and the Ollama alternative developers actually want. FREE forever, no asterisks.
 > 
 > `Rust` `OpenAI Compatible` `GGUF` `Zero-Config` `Single Binary` `FREE Forever`
 >
@@ -189,26 +189,26 @@ A modular, real-time-safe audio processing stack built entirely in Rust. From ke
 
 | Metric | Count |
 |--------|-------|
-| 🔥 **Contributions** | **3,300+** |
-| 📝 **Commits** | **2,500+** |
-| 🔀 **Pull Requests** | **50+** |
-| 📦 **Releases** | **80+** |
-| 🏗️ **Repos Created** | **65** |
-| ⭐ **Stars** | **3,000+** |
-| 🍴 **Forks** | **300+** |
+| 🔥 **Contributions** | **3410** |
+| 📝 **Commits** | **1240** |
+| 🔀 **Pull Requests** | **80** |
+| 📦 **Releases** | **100** |
+| 🏗️ **Repos Created** | **60** |
+| ⭐ **Stars** | **3600** |
+| 🍴 **Forks** | **260** |
 
 </td>
 <td>
 
 | Metric | Count (YTD) |
 |--------|-------------|
-| 🔥 **Contributions** | **8,600+** |
-| 📝 **Commits** | **2,500+** |
-| 🔀 **Pull Requests** | **50+** |
-| 📦 **Releases** | **70+** |
-| 🏗️ **Repos Created** | **70+** |
-| ⭐ **Stars** | **6,000+** |
-| 🍴 **Forks** | **600+** |
+| 🔥 **Contributions** | **8670** |
+| 📝 **Commits** | **2550** |
+| 🔀 **Pull Requests** | **30** |
+| 📦 **Releases** | **100** |
+| 🏗️ **Repos Created** | **70** |
+| ⭐ **Stars** | **6410** |
+| 🍴 **Forks** | **660** |
 
 </td>
 </tr>
@@ -223,15 +223,15 @@ A modular, real-time-safe audio processing stack built entirely in Rust. From ke
 ### Stats & Streak
 [![GitHub Stats](https://img.shields.io/github/stars/Michael-A-Kuykendall?style=for-the-badge&color=yellow&label=Total%20Stars)](https://github.com/Michael-A-Kuykendall?tab=repositories)
 [![GitHub Followers](https://img.shields.io/github/followers/Michael-A-Kuykendall?style=for-the-badge&color=blue&label=Followers)](https://github.com/Michael-A-Kuykendall)
-[![Commits](https://img.shields.io/badge/Commits-5000%2B-brightgreen?style=for-the-badge)](https://github.com/Michael-A-Kuykendall?tab=overview&from=2025-01-01)
-[![Releases](https://img.shields.io/badge/Releases-190%2B-purple?style=for-the-badge)](https://github.com/Michael-A-Kuykendall?tab=repositories)
+[![Commits](https://img.shields.io/badge/Commits-3780-brightgreen?style=for-the-badge)](https://github.com/Michael-A-Kuykendall?tab=overview&from=2025-01-01)
+[![Releases](https://img.shields.io/badge/Releases-200-purple?style=for-the-badge)](https://github.com/Michael-A-Kuykendall?tab=repositories)
 
 ### Languages & Activity
 [![Top Language: Rust](https://img.shields.io/badge/Top%20Language-Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Michael-A-Kuykendall?tab=repositories&q=&type=source&language=rust)
 [![Profile Views](https://komarev.com/ghpvc/?username=Michael-A-Kuykendall&style=for-the-badge&color=blueviolet&label=Profile%20Views)](https://github.com/Michael-A-Kuykendall)
 
 ### Contribution Graph
-[![GitHub Contributions](https://img.shields.io/badge/Contributions-8600%2B%20YTD-2ea44f?style=for-the-badge&logo=github)](https://github.com/Michael-A-Kuykendall?tab=overview&from=2026-01-01)
+[![GitHub Contributions](https://img.shields.io/badge/Contributions-8670%20YTD-2ea44f?style=for-the-badge&logo=github)](https://github.com/Michael-A-Kuykendall?tab=overview&from=2026-01-01)
 
 </div>
 
